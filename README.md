@@ -2,7 +2,7 @@
 
 > **Read-only archive of released versions of ernestdefoe/herald.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/herald) or the [upstream repository](https://github.com/ernestdefoe/herald).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/ernestdefoe-herald/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/ernestdefoe-herald/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
