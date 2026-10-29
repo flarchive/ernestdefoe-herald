@@ -2,16 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/herald.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/herald) or the [upstream repository](https://github.com/ernestdefoe/herald).
 
-**4** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/ernestdefoe-herald/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/ernestdefoe-herald/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0.0` | 2026-10-02 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-herald/tree/archive/v1.0.0) |
-| `1.0.1` | 2026-10-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-herald/tree/archive/v1.0.1) |
-| `1.0.2` | 2026-10-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-herald/tree/archive/v1.0.2) |
-| `1.0.3` | 2026-10-24 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-herald/tree/archive/v1.0.3) |
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-herald.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-herald.json)
 
